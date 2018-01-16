@@ -3,7 +3,8 @@
 https://www.hackerrank.com/challenges/cube-summation/problem
 
 ### Sample Input
-```2
+```
+ 2
  4 5
  UPDATE 2 2 2 4
  QUERY 1 1 1 3 3 3
